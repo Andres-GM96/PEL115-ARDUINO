@@ -1,6 +1,5 @@
 # PEL115-ARDUINO-ADC
 Para estudiantes de Programacion I EIE FIA UES 2018
-<- El 3 es mi numero favorito
 Convertidor Analogico Digital (ADC - Analogic Digital Converter)
 
 Se realiza medicion mediante un puente de Wheatstone.
