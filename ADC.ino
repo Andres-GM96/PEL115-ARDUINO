@@ -21,6 +21,7 @@ void setup() {
   for( int i = 0; i <= nBits - 1; i++){
      ledArray[i] = i + 2;
      pinMode(ledArray[i], OUTPUT);
+    digitalWrite(ledArray[i], LOW);
   } //inicializacion de ledArray[] como vector de bits
 }
 
