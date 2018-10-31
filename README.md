@@ -9,3 +9,4 @@ un equivalente a una lectura de nBits, definidos en el incio del programa.
 La conversion analogico digital de nBits se muestra en binario natural mediante leds.
 
 Sobre el puente de Wheatsonte: https://es.wikipedia.org/wiki/Puente_de_Wheatstone
+:)
