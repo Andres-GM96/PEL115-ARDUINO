@@ -12,7 +12,7 @@
 const int nBits = 4; //numero de bits a utilizar
 const int analogIn_0 = A0;
 const int analogIn_1 = A1;
-bool ledArray[nBits];
+int ledArray[nBits];
 
 void setup() {
   // put your setup code here, to run once:
