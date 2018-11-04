@@ -10,5 +10,6 @@ un equivalente a una lectura de nBits, definidos en el incio del programa.
 La conversion analogico digital de nBits se muestra en binario natural mediante leds.
 
 > Un poco sobre el puente de Wheatsonte: https://es.wikipedia.org/wiki/Puente_de_Wheatstone
+> Un poco sobre el sistema binario: https://es.wikipedia.org/wiki/Sistema_binario
 
 :)
