@@ -6,7 +6,6 @@
  * El valor leido es convertido a un equivalente de nBits declarado al inicio del programa.
  * Se muestra el equivalente en binario natural segun ledArray[nBits].
  *  
- * Programa realizado con Arduino Nano - Andres Garcia 31-10-2018
  * Para estudiantes de Programacion I - EIE FIA UES
  */
 const int nBits = 4; //numero de bits a utilizar
